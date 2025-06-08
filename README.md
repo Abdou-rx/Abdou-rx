@@ -1,32 +1,100 @@
-- 👋 Hi, I’m @Abdou-rx
-[![hello:3](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=411FF7&width=435&lines=HI+I'm+Abdou+The+best+developer+in+the+world+%3A3+14yo)](https://git.io/typing-svg)
+<h1 align="center">👋 Hi, I’m @Abdou-rx</h1>
 
-14y and Learned 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=411FF7&center=true&vCenter=true&width=500&lines=HI+I'm+Abdou+The+best+developer+in+the+world+%3A3+14yo;Divee+-+Smart+AI+assistant+connected.;Making+bots,+webapps,+and+chaos...">
+  </a>
+</p>
 
-  ### 💻 Programming Languages
-  
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)](#)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117)](#)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)](#)
-  [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117)](#)
-  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117)](#)
-  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)](#)
-  
-  ### 🎨 Frontend Technologies
-  
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)](#)
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)](#)
-  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)](#)
-  [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)](#)
-  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0D1117)](#)
-  [![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)](#)
-  [![Ejs](https://img.shields.io/badge/ejs)](#)
+---
 
-  
-  ### ⚙️ Backend & Database
-  
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117)](#)
-  [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)](#)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)](#)
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)](#)
-  
+### ⚡ About Me
+
+```bash
+> whoami
+👤 Abdou (aka @abdou-da0wew / @Abdou-rx)
+
+> age
+🧒 14 years old
+
+> power
+⚡ Fearless fullstack dev, Terminal-native, Node.js monster
+
+> current project
+🧠 Divee – Smart AI Assistant (مساعد شخصي ذكي في كل حاجة تقريبًا)
+
+> motto
+💥 Build bots. Break limits. Repeat.
+````
+
+---
+
+### 💻 Programming Languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white\&labelColor=0D1117)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=white\&labelColor=0D1117)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white\&labelColor=0D1117)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white\&labelColor=0D1117)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white\&labelColor=0D1117)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white\&labelColor=0D1117)](#)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white\&labelColor=0D1117)](#)
+[![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white\&labelColor=0D1117)](#)
+
+---
+
+### 🎨 Frontend Technologies
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)](#)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0D1117)](#)
+[![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white&labelColor=0D1117)](#)
+
+---
+
+### ⚙️ Backend & Database
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white\&labelColor=0D1117)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white\&labelColor=0D1117)](#)
+[![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge\&logo=fastify\&logoColor=white\&labelColor=0D1117)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white\&labelColor=0D1117)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white\&labelColor=0D1117)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white\&labelColor=0D1117)](#)
+
+---
+
+### 🧠 Divee – Smart AI Assistant :3
+
+```bash
+> systemctl start divee
+🟢 Divee is now active
+⚙️ Features: Bot management, Coding help, AI-driven workflows
+💬 Uses Abdou's logic + OpenAI’s brain
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdou-rx&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdou-rx&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
+</p>
+
+---
+
+### 📡 Contacts
+
+| Platform      | Username                                        |
+| ------------- | ----------------------------------------------- |
+| 🌍 Website    | [triecbot.xyz](https://triecbot.xyz)            |
+| 🐱 GitHub     | [Abdou-da0wew](https://github.com/abdou-da0wew) |
+| 🧪 Alt GitHub | [Abdou-rx](https://github.com/Abdou-rx)         |
+| 💬 Discord    | `1t_na`                                         |
+
+---
+
+<p align="center">
+  <b>Thanks for watching the terminal, ctrl+c when you're impressed :3</b>
+</p>
