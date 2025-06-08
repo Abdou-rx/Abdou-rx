@@ -70,7 +70,7 @@
 > systemctl start divee
 🟢 Divee is now active
 ⚙️ Features: Bot management, Coding help, AI-driven workflows
-💬 Uses Abdou's logic + OpenAI’s brain
+💬 Uses Abdou's logic + Abdou's brain
 ```
 
 ---
