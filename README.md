@@ -21,7 +21,7 @@
 ⚡ Fearless fullstack dev, Terminal-native, Node.js monster
 
 > current project
-🧠 Divee – Smart AI Assistant (مساعد شخصي ذكي في كل حاجة تقريبًا)
+🧠 Divee – Smart AI Assistant (مساعد شخصي ذكي في كل حاجة تقريبًا) (It's done)
 
 > motto
 💥 Build bots. Break limits. Repeat.
